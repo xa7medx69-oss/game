@@ -1,0 +1,6 @@
+# Rendered page images and audit reports are reproducible verification output.
+**/qa*/
+
+# Python cache files
+__pycache__/
+*.py[cod]
