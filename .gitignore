@@ -1,4 +1,5 @@
 # Rendered page images and audit reports are reproducible verification output.
+artifacts/
 **/qa*/
 
 # Python cache files
