@@ -1,0 +1,21 @@
+category,item,quantity,material_or_specification,notes
+printed,Base shell,1,PETG,Contains inserts and electronics
+printed,Top lid,1,PETG,Four-screw service closure
+printed,Button cap,1,PETG,47.4 mm press face
+printed,Button membrane,1,TPU 95A,Flip after printing so plunger points down
+printed,Perimeter gasket,1,TPU 95A,Replace if permanently compressed or damaged
+printed,Light ring,1,Natural or translucent PETG,Optical performance requires LED testing
+printed,Drop bumper,1,TPU 95A,Stretch-on replaceable impact part
+printed,Strap mount,1,PETG,Two 29 x 5 mm strap slots
+printed,Electronics carrier,1,PETG,Measure battery before use
+fastener,M2 button-head screw,4,M2 x 6 mm,Hand tighten in cross pattern
+fastener,M2 heat-set insert,4,Approx. 3.2 mm OD x 3 mm,Select pilot using coupon
+fastener,M2.5 low-profile screw,2,M2.5 x 6 mm,Strap plate attachment
+fastener,M2.5 heat-set insert,2,Approx. 3.7 mm OD,Blind underside bosses
+fastener,M2 thread-forming screw,2,Length selected after physical stack measurement,Electronics carrier
+soft_good,Wearable strap,1,25 mm soft hook-and-loop,Breakaway overlap required
+soft_good,Battery retaining strap,1,8 mm fabric or hook-and-loop,No rigid clamp across pouch cell
+soft_good,Wearer pad,1,Thin closed-cell foam,Replaceable and cleanable
+electronics,Controller board,1,Seeed XIAO ESP32-C3 21 x 17.8 mm,Verify assembled height and antenna lead
+electronics,Battery,1,Protected LiPo maximum modeled envelope 31 x 21.5 x 6.5 mm,Exact qualified pack required
+electronics,Tactile switch and actuator,1,1.5-2.5 N target,Physical height controls button travel

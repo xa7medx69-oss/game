@@ -1,0 +1,114 @@
+{
+  "units": "millimetres",
+  "design_clearances_mm": {
+    "cap_radial_clearance_each_side": 0.5,
+    "cap_retention_overlap": 0.6,
+    "screw_head_to_button_opening": 0.75,
+    "screw_head_to_outer_edge": 1.95,
+    "tongue_inner_clearance": 0.35,
+    "tongue_outer_clearance": 0.35,
+    "membrane_material_outside_screw_hole": 0.25
+  },
+  "parts": [
+    {
+      "name": "01-base-shell",
+      "faces": 10896,
+      "volume_mm3": 14470.0,
+      "size_mm": [
+        62.0,
+        62.0,
+        16.2
+      ]
+    },
+    {
+      "name": "02-top-lid",
+      "faces": 7200,
+      "volume_mm3": 3981.0,
+      "size_mm": [
+        62.0,
+        62.0,
+        4.0
+      ]
+    },
+    {
+      "name": "03-button-cap",
+      "faces": 3078,
+      "volume_mm3": 7025.3,
+      "size_mm": [
+        49.6,
+        49.6,
+        4.15
+      ]
+    },
+    {
+      "name": "04-button-membrane-tpu",
+      "faces": 3088,
+      "volume_mm3": 2110.1,
+      "size_mm": [
+        57.2,
+        57.2,
+        3.4
+      ]
+    },
+    {
+      "name": "05-perimeter-gasket-tpu",
+      "faces": 1024,
+      "volume_mm3": 163.8,
+      "size_mm": [
+        60.36,
+        60.36,
+        0.8
+      ]
+    },
+    {
+      "name": "06-light-ring-transparent",
+      "faces": 1024,
+      "volume_mm3": 154.6,
+      "size_mm": [
+        60.16,
+        60.16,
+        1.0
+      ]
+    },
+    {
+      "name": "07-drop-bumper-tpu",
+      "faces": 1024,
+      "volume_mm3": 1228.2,
+      "size_mm": [
+        64.4,
+        64.4,
+        4.2
+      ]
+    },
+    {
+      "name": "08-strap-mount",
+      "faces": 2652,
+      "volume_mm3": 3874.8,
+      "size_mm": [
+        48.0,
+        34.0,
+        3.0
+      ]
+    },
+    {
+      "name": "09-electronics-carrier",
+      "faces": 1830,
+      "volume_mm3": 2460.2,
+      "size_mm": [
+        53.5,
+        24.3,
+        4.7
+      ]
+    },
+    {
+      "name": "10-tolerance-coupon",
+      "faces": 4696,
+      "volume_mm3": 4718.1,
+      "size_mm": [
+        62.0,
+        20.0,
+        4.0
+      ]
+    }
+  ]
+}
